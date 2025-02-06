@@ -1,4 +1,4 @@
-package com.shrikant.badwaik.nomnomnow.ui.theme
+package com.shrikant.badwaik.nomnomnow.view.theme
 
 import androidx.compose.ui.graphics.Color
 
